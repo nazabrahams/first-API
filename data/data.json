@@ -1,0 +1,144 @@
+{
+    "aboutMe":"My name is Nazneen Abrahams and im currently at life choices coding academy", 
+    "projects":[
+        {
+            "name":"Calculator",
+            "github":"https://github.com/nazabrahams/calculator.git",
+            "vercel":"https://calculator-ryzb.vercel.app/",
+            "description":"A simple calculator app that performs basic arithmetic operations",
+            "image":""
+        },
+        {
+            "name":"BMI Calculator",
+            "github":"https://github.com/nazabrahams/BMI-calc.git",
+            "vercel":"https://bmi-calc-mu.vercel.app/",
+            "description":"",
+            "image":""
+        },
+        {
+            "name":"Tempreture Converter",
+            "github":"https://github.com/nazabrahams/Temperature-convertor.git",
+            "vercel":"https://temperature-convertor-three-taupe.vercel.app/",
+            "description":"",
+            "image":""
+        },
+        {
+            "name":"Keyboard",
+            "github":"https://github.com/nazabrahams/keyboard.git",
+            "vercel":"https://keyboard-ten-chi.vercel.app/",
+            "description":"",
+            "image":""
+        },
+        {
+            "name":"Project 1 - Portfolio",
+            "github":"https://github.com/nazabrahams/finalproject1.git",
+            "vercel":"https://finalproject1-five.vercel.app/",
+            "description":"",
+            "image":""
+        },
+        {
+            "name":"Project 2 - Ecom",
+            "github":"https://github.com/nazabrahams/moduleproject2.git",
+            "vercel":"https://moduleproject2.vercel.app/",
+            "description":"",
+            "image":""
+        }
+    ],
+    
+    "education":[
+        {
+            "description":"Highschool",
+            "year":"2018-2022",
+            "placeOfInstitution":"Norman Henshilwood Highschool",
+            "contact":[
+                {
+                    "name":"Principal",
+                    "contactDetails":"0974923086"
+                }
+            ]
+        },
+        {
+            "description":"University",
+            "year":"2023",
+            "placeOfInstitution":"Stellenbosch University",
+            "contact":[
+                {
+                    "name":"Dean",
+                    "contactDetails":"045683362"
+                }
+            ]
+        },
+        {
+            "description":"Coding academy",
+            "year":"2nd Aprill 2024- the present",
+            "placeOfInstitution":"Life Choices Coding Academy",
+            "contact":[
+                {
+                    "name":"Candace Armon",
+                    "contactDetails":"097266433"
+                }
+            ]
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"CSS",
+            "image":"URL"
+        },
+        {
+            "name":"Javascript",
+            "image":"URL"
+        },
+        {
+            "name":"GitHub",
+            "image":"URL"
+        },
+        {
+            "name":"Bootstrap",
+            "image":"URL"
+        }
+    ],
+    "workExp":[
+        {
+            "placeOfWork":"",
+            "year":"",
+            "description":"",
+            "contact":{
+                "name":"",
+                "cell":"",
+                "position":""
+            }
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":""
+        }
+    ]
+}
